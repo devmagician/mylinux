@@ -1,0 +1,16 @@
+vmware
+
+1.Rambox - message for everything
+2.Kodi - smarttv ...
+3.Stacer - cleaner, sys managing ...
+4.Calibre - ebooks, creation, conversion
+5.Timeshift - snapshooting system
+6.Gnome tweak tool
+7.Kdenlive - tool for videos, powerfull
+8.Synaptic - software management tool
+9.vlc
+10.Nitroshare / send and receive documents
+11.Chromium
+12.Gimp - photoshop for linux
+13. Simplenote
+Geary email
